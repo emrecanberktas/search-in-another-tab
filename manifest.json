@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Search in Another Tab",
+  "version": "1.0.0",
+  "description": "Seçili metni yeni sekmede Google'da arar - Metin seçtiğinizde hızlı arama butonu gösterir",
+  "author": "Emre C.",
+  "permissions": [
+    "activeTab"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "css": ["styles.css"],
+      "run_at": "document_end"
+    }
+  ],
+  "host_permissions": []
+}

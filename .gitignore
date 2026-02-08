@@ -1,0 +1,36 @@
+# Chrome Store dosyaları (sadece lokal kullanım)
+CHROME_STORE_JUSTIFICATIONS.md
+STORE_LISTING.md
+
+# Extension paketleri
+*.zip
+*.crx
+*.pem
+
+# Screenshot'lar ve promotional images (çok büyük olabilir)
+screenshots/
+promotional/
+
+# OS dosyaları
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node (eğer gelecekte kullanılırsa)
+node_modules/
+package-lock.json
+
+# Environment
+.env
+.env.local
+
+# Backup dosyaları
+*.bak
+*.backup
