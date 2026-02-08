@@ -1,10 +1,6 @@
 # Search in Another Tab 🔍
 
-> A simple Chrome extension that lets you search selected text on Google with just one click.
 
-[![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Download-blue?style=for-the-badge&logo=google-chrome)](https://chrome.google.com/webstore)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
-[![Version](https://img.shields.io/badge/version-1.0.0-green?style=for-the-badge)]()
 
 ## ✨ Features
 
@@ -14,32 +10,6 @@
 - 🛡️ **Privacy First** - No data collection, no tracking, completely local
 - ⌨️ **Keyboard Support** - Press ESC to hide the button
 - 🌐 **Works Everywhere** - Compatible with all websites
-
-## 📦 Installation
-
-### From Chrome Web Store (Recommended)
-
-1. Visit the [Chrome Web Store page](#) (Coming soon!)
-2. Click "Add to Chrome"
-3. Start selecting text on any webpage!
-
-### Manual Installation (Developer Mode)
-
-1. Download or clone this repository:
-   ```bash
-   git clone https://github.com/your-username/search-in-another-tab.git
-   ```
-
-2. Open Chrome and go to:
-   ```
-   chrome://extensions/
-   ```
-
-3. Enable **Developer mode** (toggle in top-right corner)
-
-4. Click **Load unpacked** and select the project folder
-
-5. Done! The extension is now active.
 
 ## 🎮 How to Use
 
@@ -62,8 +32,6 @@ This extension is built with privacy in mind:
 - ✅ **No servers** - Everything runs locally in your browser
 - ✅ **Minimal permissions** - Only uses `activeTab` permission
 - ✅ **Open source** - Full source code available for review
-
-See [Privacy Policy](PRIVACY_POLICY.md) for details.
 
 ## 🛠️ Technical Details
 
@@ -128,27 +96,10 @@ Contributions are welcome! Here's how you can help:
 - [ ] Multi-language support
 - [ ] Custom search URL templates
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-**Emre C.**
-
-- GitHub: [@your-username](https://github.com/your-username)
-
 ## 🙏 Acknowledgments
 
 - Inspired by the need for quick text searches while browsing
 - Built with modern web standards and best practices
-
-## 📞 Support
-
-If you encounter any issues or have suggestions:
-
-- Open an [issue](https://github.com/your-username/search-in-another-tab/issues)
-- Check existing issues before creating a new one
 
 ## ⭐ Show Your Support
 
